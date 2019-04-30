@@ -4,6 +4,8 @@ const bodyParser = require('body-parser')
 const mongoose = require('mongoose')
 const mongodb = require('mongodb')
 const cors = require('cors')
+const gunRoutes = ('./gunRouter')
+const http = require('http')
 
 const app = express()
 app.use(express.static(__dirname + "/public"))
@@ -15,6 +17,8 @@ app.use(
     extended: false
   })
 );
+app.use('/v1/guns', require('./gunRouter'));
+
 
 const db = require('./config/keys').mongoURI
 
@@ -26,5 +30,7 @@ mongoose
   .catch(err => console.log(err));
 
 const port = process.env.PORT || 5000;
-app.listen(port, () => console.log(`Server running on ${port}!`));
+const server = http.createServer(app);
+
+server.listen(port, () => console.log(`Server running on ${port}!`));
 

@@ -1,0 +1,21 @@
+AMMO,NAME,DESCRIPTION,TYPE,ATTACHMENTS,MAG_SIZE,DAMAGE,PROJECTILES_PER_SHOT,HEADSHOT_MULTIPLIER,RAW_RPM,EMPTY_RELOAD_TIME,LOADED_RELOAD_TIME,RPM_ADJUSTED_FOR_RELOAD,RAW_RPS,RPS_ADJUSTED_FOR_RELOAD,RAW_DPS_(BODY),MAX_HEADSHOT_RANGE
+LIGHT,Alternator,Twin barrel full-auto SMG,SMG,Barrel Mag Optic Stock,16,13,1,1.5,556,2.2,1.8,273,9,5,121,40
+LIGHT,R-99,Rapid-fire automatic SMG,SMG,Barrel Mag Optic Stock,18,12,1,1.5,881,2.4,1.95,340,15,6,176,40
+LIGHT,R-301,Full-auto and high accuracy,AR,Barrel Mag Optic Stock,18,12,1,2,759,3.2,2.01,315,13,5,152,300
+LIGHT,G7,Semi-auto light SR,Sniper,Barrel Mag Optic Stock(sniper),10,30,1,2,255,3,2.42,126,4,2,127,750
+LIGHT,RE-45,Full-auto pistol,Pistol,Barrel Mag Optic,15,11,1,1.5,709,2.1,1.67,306,12,5,130,40
+LIGHT,P2020,Semi-auto pistol,Pistol,Barrel Optic,10,12,1,1.5,445,1.2,1,256,7,4,89,40
+HEAVY,Prowler,5-round burst & auto SMG,Burst SMG (x5),Hop-up Mag Optic Stock,20,14,1,1.5,748,2.6,1.97,335,12,6,175,40
+HEAVY,Flatline,Full-auto with high recoil,AR,Mag Optic Stock,20,16,1,2,549,3.1,2.5,256,9,4,146,300
+HEAVY,Hemlok,3-round burst AR,Burst AR (x3),Barrel Mag Optic Stock,18,18,1,2,478,2.8,2.3,237,8,4,143,300
+HEAVY,Spitfire,Full-auto LMG,LMG,Barrel Mag Optic Stock,35,20,1,2,506,3.3,2.75,304,8,5,169,60
+HEAVY,Longbow,Semi-auto SR,Sniper,Hop-up Barrel Mag Optic Stock(sniper),5,55,1,2,84,3.6,2.96,46,1,1,77,750
+HEAVY,Wingman,High powered pisol,Pistol,Hop-up Mag Optic,6,45,1,2,157,2.1,1.72,90,3,1,117,250
+SHOTGUN,Peacekeeper,Lever-action shotgun,Shotgun,Bolt Hop-up Optic,6,10,11,1.5,57,3.5,2.79,39,1,1,104,100
+SHOTGUN,EV8 Auto,Full-auto shotgun,Shotgun,Bolt Optic,8,7,9,1.5,123,3.5,2.7,73,2,1,129,100
+SHOTGUN,Mozambique,Triple-barrel shotgun pistol,Shotgun,Bolt Optic,3,15,3,1.5,157,2.6,1.64,65,3,1,118,40
+ENERGY,Devotion,Full-auto LMG,LMG,Barrel Mag Optic Stock,44,17,1,2,676,3.6,2.76,396,11,7,192,60
+ENERGY,Havoc,Energy AR with variable modes,AR,Hop-up Optic Stock,25,18,1,2,437,null,2.26,263,7,4,131,null
+ENERGY,Triple Take,Triple-barrel SR,Sniper,Hop-up Optic Stock(sniper),5,23,3,2,89,3.6,2.53,51,1,1,103,750
+LEGENDARY,Mastiff,Powerful semi-auto shotgun,Shotgun,None,4,18,8,2,96,1.7,2.76,46,2,1,232,750
+LEGENDARY,Kraber,Powerful bolt-action SR,Sniper,None,4,125,1,2,36,4.3,3.08,24,1,0,74,40
