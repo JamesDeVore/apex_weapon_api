@@ -15,6 +15,6 @@ Currently, the supported endpoints are as follows:
 | ------------- |:-------------:| -----:|
 | /v1/guns      | None | All guns in Apex Legends |
 | /v1/guns/gun/:ID      | Gun ID       |   A single gun |
-| /v1/guns/search/ |   gunClass, ammo (ex:gunClass=AR&ammo=HEAVY    |    All Guns matching the search criteria |
+| /v1/guns/search/ |   gunClass, ammo (ex:search?gunClass=AR&ammo=HEAVY    |    All guns matching the search criteria |
 
 This is a brand new project, so contributers are always welcome, as well as any feedback. Thanks :)
