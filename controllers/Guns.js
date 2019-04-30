@@ -84,7 +84,6 @@ exports.getGunById = async function(req, res) {
     let foundGun = await Gun.findOne({ gunID: ID }).exec();
     if (foundGun) {
       //If the ID returns a valid gun:
-      res.response;
       res.response.data = foundGun;
       res.send(res.response);
     } else {
@@ -114,6 +113,7 @@ exports.getGunsByPhrase = function(req, res) {
   }
 
   Gun.find(queryObj, (err, guns) => {
-    res.send(guns);
+    res.response.data = guns
+    res.send(res.response);
   });
 };
