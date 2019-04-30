@@ -3,6 +3,7 @@ const Schema = mongoose.Schema;
 
 const GunSchema = new Schema({
   name:String,
+  gunID:String,
   updated:{
     type:Date,
     default:Date.now

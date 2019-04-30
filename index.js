@@ -17,10 +17,17 @@ app.use(
     extended: false
   })
 );
+
+const versionMiddleware= (req,res,next) => {
+  res.version = "1.0.0"
+  next()
+}
+app.use("*",versionMiddleware)
+const db = require('./config/keys').mongoURI
+
+//initial router
 app.use('/v1/guns', require('./gunRouter'));
 
-
-const db = require('./config/keys').mongoURI
 
 mongoose
   .connect(db, {

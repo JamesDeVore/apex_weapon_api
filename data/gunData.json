@@ -16,7 +16,7 @@
     "RPM_ADJUSTED_FOR_RELOAD": "273",
     "RAW_RPS": "9",
     "RPS_ADJUSTED_FOR_RELOAD": "5",
-    "RAW_DPS_(BODY)": "121",
+    "RAW_DPS_BODY": "121",
     "MAX_HEADSHOT_RANGE": "40"
   },
   "1": {
@@ -36,7 +36,7 @@
     "RPM_ADJUSTED_FOR_RELOAD": "340",
     "RAW_RPS": "15",
     "RPS_ADJUSTED_FOR_RELOAD": "6",
-    "RAW_DPS_(BODY)": "176",
+    "RAW_DPS_BODY": "176",
     "MAX_HEADSHOT_RANGE": "40"
   },
   "2": {
@@ -56,7 +56,7 @@
     "RPM_ADJUSTED_FOR_RELOAD": "315",
     "RAW_RPS": "13",
     "RPS_ADJUSTED_FOR_RELOAD": "5",
-    "RAW_DPS_(BODY)": "152",
+    "RAW_DPS_BODY": "152",
     "MAX_HEADSHOT_RANGE": "300"
   },
   "3": {
@@ -76,7 +76,7 @@
     "RPM_ADJUSTED_FOR_RELOAD": "126",
     "RAW_RPS": "4",
     "RPS_ADJUSTED_FOR_RELOAD": "2",
-    "RAW_DPS_(BODY)": "127",
+    "RAW_DPS_BODY": "127",
     "MAX_HEADSHOT_RANGE": "750"
   },
   "4": {
@@ -96,7 +96,7 @@
     "RPM_ADJUSTED_FOR_RELOAD": "306",
     "RAW_RPS": "12",
     "RPS_ADJUSTED_FOR_RELOAD": "5",
-    "RAW_DPS_(BODY)": "130",
+    "RAW_DPS_BODY": "130",
     "MAX_HEADSHOT_RANGE": "40"
   },
   "5": {
@@ -116,7 +116,7 @@
     "RPM_ADJUSTED_FOR_RELOAD": "256",
     "RAW_RPS": "7",
     "RPS_ADJUSTED_FOR_RELOAD": "4",
-    "RAW_DPS_(BODY)": "89",
+    "RAW_DPS_BODY": "89",
     "MAX_HEADSHOT_RANGE": "40"
   },
   "6": {
@@ -136,7 +136,7 @@
     "RPM_ADJUSTED_FOR_RELOAD": "335",
     "RAW_RPS": "12",
     "RPS_ADJUSTED_FOR_RELOAD": "6",
-    "RAW_DPS_(BODY)": "175",
+    "RAW_DPS_BODY": "175",
     "MAX_HEADSHOT_RANGE": "40"
   },
   "7": {
@@ -156,7 +156,7 @@
     "RPM_ADJUSTED_FOR_RELOAD": "256",
     "RAW_RPS": "9",
     "RPS_ADJUSTED_FOR_RELOAD": "4",
-    "RAW_DPS_(BODY)": "146",
+    "RAW_DPS_BODY": "146",
     "MAX_HEADSHOT_RANGE": "300"
   },
   "8": {
@@ -176,7 +176,7 @@
     "RPM_ADJUSTED_FOR_RELOAD": "237",
     "RAW_RPS": "8",
     "RPS_ADJUSTED_FOR_RELOAD": "4",
-    "RAW_DPS_(BODY)": "143",
+    "RAW_DPS_BODY": "143",
     "MAX_HEADSHOT_RANGE": "300"
   },
   "9": {
@@ -196,7 +196,7 @@
     "RPM_ADJUSTED_FOR_RELOAD": "304",
     "RAW_RPS": "8",
     "RPS_ADJUSTED_FOR_RELOAD": "5",
-    "RAW_DPS_(BODY)": "169",
+    "RAW_DPS_BODY": "169",
     "MAX_HEADSHOT_RANGE": "60"
   },
   "10": {
@@ -216,7 +216,7 @@
     "RPM_ADJUSTED_FOR_RELOAD": "46",
     "RAW_RPS": "1",
     "RPS_ADJUSTED_FOR_RELOAD": "1",
-    "RAW_DPS_(BODY)": "77",
+    "RAW_DPS_BODY": "77",
     "MAX_HEADSHOT_RANGE": "750"
   },
   "11": {
@@ -236,7 +236,7 @@
     "RPM_ADJUSTED_FOR_RELOAD": "90",
     "RAW_RPS": "3",
     "RPS_ADJUSTED_FOR_RELOAD": "1",
-    "RAW_DPS_(BODY)": "117",
+    "RAW_DPS_BODY": "117",
     "MAX_HEADSHOT_RANGE": "250"
   },
   "12": {
@@ -256,7 +256,7 @@
     "RPM_ADJUSTED_FOR_RELOAD": "39",
     "RAW_RPS": "1",
     "RPS_ADJUSTED_FOR_RELOAD": "1",
-    "RAW_DPS_(BODY)": "104",
+    "RAW_DPS_BODY": "104",
     "MAX_HEADSHOT_RANGE": "100"
   },
   "13": {
@@ -276,7 +276,7 @@
     "RPM_ADJUSTED_FOR_RELOAD": "73",
     "RAW_RPS": "2",
     "RPS_ADJUSTED_FOR_RELOAD": "1",
-    "RAW_DPS_(BODY)": "129",
+    "RAW_DPS_BODY": "129",
     "MAX_HEADSHOT_RANGE": "100"
   },
   "14": {
@@ -296,7 +296,7 @@
     "RPM_ADJUSTED_FOR_RELOAD": "65",
     "RAW_RPS": "3",
     "RPS_ADJUSTED_FOR_RELOAD": "1",
-    "RAW_DPS_(BODY)": "118",
+    "RAW_DPS_BODY": "118",
     "MAX_HEADSHOT_RANGE": "40"
   },
   "15": {
@@ -316,7 +316,7 @@
     "RPM_ADJUSTED_FOR_RELOAD": "396",
     "RAW_RPS": "11",
     "RPS_ADJUSTED_FOR_RELOAD": "7",
-    "RAW_DPS_(BODY)": "192",
+    "RAW_DPS_BODY": "192",
     "MAX_HEADSHOT_RANGE": "60"
   },
   "16": {
@@ -336,7 +336,7 @@
     "RPM_ADJUSTED_FOR_RELOAD": "263",
     "RAW_RPS": "7",
     "RPS_ADJUSTED_FOR_RELOAD": "4",
-    "RAW_DPS_(BODY)": "131",
+    "RAW_DPS_BODY": "131",
     "MAX_HEADSHOT_RANGE": "null"
   },
   "17": {
@@ -356,7 +356,7 @@
     "RPM_ADJUSTED_FOR_RELOAD": "51",
     "RAW_RPS": "1",
     "RPS_ADJUSTED_FOR_RELOAD": "1",
-    "RAW_DPS_(BODY)": "103",
+    "RAW_DPS_BODY": "103",
     "MAX_HEADSHOT_RANGE": "750"
   },
   "18": {
@@ -376,7 +376,7 @@
     "RPM_ADJUSTED_FOR_RELOAD": "46",
     "RAW_RPS": "2",
     "RPS_ADJUSTED_FOR_RELOAD": "1",
-    "RAW_DPS_(BODY)": "232",
+    "RAW_DPS_BODY": "232",
     "MAX_HEADSHOT_RANGE": "750"
   },
   "19": {
@@ -396,7 +396,7 @@
     "RPM_ADJUSTED_FOR_RELOAD": "24",
     "RAW_RPS": "1",
     "RPS_ADJUSTED_FOR_RELOAD": "0",
-    "RAW_DPS_(BODY)": "74",
+    "RAW_DPS_BODY": "74",
     "MAX_HEADSHOT_RANGE": "40"
   }
 }
