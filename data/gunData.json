@@ -331,13 +331,13 @@
     "PROJECTILES_PER_SHOT": "1",
     "HEADSHOT_MULTIPLIER": "2",
     "RAW_RPM": "437",
-    "EMPTY_RELOAD_TIME": "null",
+    "EMPTY_RELOAD_TIME": "0",
     "LOADED_RELOAD_TIME": "2.26",
     "RPM_ADJUSTED_FOR_RELOAD": "263",
     "RAW_RPS": "7",
     "RPS_ADJUSTED_FOR_RELOAD": "4",
     "RAW_DPS_BODY": "131",
-    "MAX_HEADSHOT_RANGE": "null"
+    "MAX_HEADSHOT_RANGE": "0"
   },
   "17": {
     "id": 17,

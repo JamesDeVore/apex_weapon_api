@@ -19,7 +19,11 @@ app.use(
 );
 
 const versionMiddleware= (req,res,next) => {
-  res.version = "1.0.0"
+  let responseObj = {
+    version:"1.0.0",
+    data:null
+  }
+  res.response = responseObj
   next()
 }
 app.use("*",versionMiddleware)
