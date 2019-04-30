@@ -12,15 +12,10 @@ exports.addGun = async function(req, res, next) {
     ATTACHMENTS = "test here",
     MAG_SIZE,
     DAMAGE,
-    PROJECTILES_PER_SHOT,
     HEADSHOT_MULTIPLIER,
     RAW_RPM,
     EMPTY_RELOAD_TIME,
     LOADED_RELOAD_TIME,
-    RPM_ADJUSTED_FOR_RELOAD,
-    RAW_RPS,
-    RPS_ADJUSTED_FOR_RELOAD,
-    RAW_DPS_BODY,
     MAX_HEADSHOT_RANGE
   } = req.body;
 
@@ -111,7 +106,6 @@ exports.getGunsByPhrase = function(req, res) {
       queryObj[props] = queryObj[props].toUpperCase();
     }
   }
-
   Gun.find(queryObj, (err, guns) => {
     res.response.data = guns
     res.send(res.response);

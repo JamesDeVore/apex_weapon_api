@@ -17,5 +17,8 @@
     "mongodb": "^3.2.3",
     "mongoose": "^5.5.4",
     "nodemon": "^1.18.11"
+  },
+  "engines": {
+    "node": "10.x"
   }
 }
