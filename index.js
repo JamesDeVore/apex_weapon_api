@@ -6,6 +6,7 @@ const mongodb = require('mongodb')
 const cors = require('cors')
 const gunRoutes = ('./gunRouter')
 const http = require('http')
+require("dotenv").config();
 
 const app = express()
 app.use(express.static(__dirname + "/public"))
@@ -27,7 +28,7 @@ const versionMiddleware= (req,res,next) => {
   next()
 }
 app.use("*",versionMiddleware)
-const db = require('./config/keys').mongoURI
+const db = process.env.MONGODB_URI
 
 //initial router
 app.use('/v1/guns', require('./gunRouter'));
